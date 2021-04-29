@@ -16,6 +16,9 @@ let activity = randomWord(activities);
 let object = randomWord(objects);
 let place = randomWord(places);
 
+//printing the random message to terminal
+console.log(person + ' '+activity+' '+ object +' '+ place+'.');
+
 
 
 
